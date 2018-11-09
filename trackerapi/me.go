@@ -8,8 +8,8 @@ import (
 	"os"
 	u "os/user"
 
-	"github.com/GoBootcamp/clirescue/cmdutil"
-	"github.com/GoBootcamp/clirescue/user"
+	"github.com/Dminer65/clirescue/cmdutil"
+	"github.com/Dminer65/clirescue/user"
 )
 
 var (
